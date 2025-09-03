@@ -1,3 +1,4 @@
+# MY RESUME
+conflict!
 # References
 
-* octocat 1 😈
